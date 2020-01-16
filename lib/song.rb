@@ -6,4 +6,4 @@ class Song
   end
 end
 
-Song.title(title)
+Song.title
