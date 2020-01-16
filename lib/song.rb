@@ -7,6 +7,3 @@ class Song
       @title = title
   end
 end
-
-p hotline_bling.artist = "Drake"
-p hotline_bling.artist
