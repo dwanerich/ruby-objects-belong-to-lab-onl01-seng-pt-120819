@@ -4,5 +4,3 @@ class Post
     @title = title
   end
 end
-
-name = post.author
