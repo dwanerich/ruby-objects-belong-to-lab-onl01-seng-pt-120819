@@ -6,5 +6,4 @@ class Song
   end
 end
 
-hotline_bling = Song.new("Hotline Bling")
-p hotline_bling.title
+hotline_bling.title
