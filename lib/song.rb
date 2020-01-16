@@ -9,4 +9,4 @@ class Song
 end
 
 p hotline_bling.artist = "Drake"
-hotline_bling.artist
+p hotline_bling.artist
