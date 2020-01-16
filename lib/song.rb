@@ -3,9 +3,9 @@
 
 class Song
       attr_accessor :title, :artist
-  def initialize(title)
+  def initialize(title, artist)
       @title = title
   end
 end
 
-hotline_bling = Song.new("Hotline Bling")
+x_up = Song.new("X's Up", "Fabric + Frequency")
