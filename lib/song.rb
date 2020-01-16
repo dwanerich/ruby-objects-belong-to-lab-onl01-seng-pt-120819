@@ -7,3 +7,6 @@ class Song
       @title = title
   end
 end
+
+hotline_bling.artist = "Drake"
+hotline_bling.artist
