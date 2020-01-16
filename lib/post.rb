@@ -4,3 +4,6 @@ class Post
     @title = title
   end
 end
+
+dwane_interview = Post.new
+dwane_interview.author("Yessenia Perez")
