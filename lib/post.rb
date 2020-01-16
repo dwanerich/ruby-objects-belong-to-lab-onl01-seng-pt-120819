@@ -5,4 +5,4 @@ class Post
   end
 end
 
-Post.Author("Dwane")
+post.author(name)
