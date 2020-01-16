@@ -9,4 +9,4 @@ class Song
 end
 
 x_up = Song.new("X's Up", "Fabric + Frequency")
-x_up.Song
+p x_up.Song
