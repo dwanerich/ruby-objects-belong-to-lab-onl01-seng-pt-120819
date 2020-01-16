@@ -6,4 +6,4 @@ class Song
   end
 end
 
-hotline_bling.title
+Song.title(title)
